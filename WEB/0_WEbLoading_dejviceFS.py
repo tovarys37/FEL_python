@@ -51,6 +51,7 @@ else:
     file.write('== Datum == Čas == Teplota ==')
     file.write("\n")
 
+
 file.write(date)
 file.write(", ")
 file.write(ttime)

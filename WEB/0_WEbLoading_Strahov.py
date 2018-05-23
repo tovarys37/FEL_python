@@ -1,5 +1,5 @@
-
 import os;
+import lxml
 from lxml import html
 import requests
 import time
