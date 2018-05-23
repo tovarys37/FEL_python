@@ -1,0 +1,528 @@
+.\3Dprint\3D kryt na coupling\krytNaCoupling.scad
+.\3Dprint\3D kryt na coupling\krytNaCoupling.stl
+.\3Dprint\3D kryt na coupling\krytNaCoupling2.stl
+.\3Dprint\3D kryt na coupling\krytNaCoupling_v3.gcode
+.\3Dprint\3D kryt na coupling\krytNaCoupling_v3.stl
+.\3Dprint\3D kryt na coupling\krytNaCoupling_v4.gcode
+.\3Dprint\3D kryt na coupling\krytNaCoupling_v4.stl
+.\3Dprint\others\Flying_disc\flying_disc.stl
+.\3Dprint\others\Flying_disc\flying_disc_flip.stl
+.\3Dprint\others\source\CSU_Frisbee.zip
+.\3Dprint\others\source\Flying_disc.zip
+.\3Dprint\others\source\Mini_Frisbee.zip
+.\3Dprint\others\source\Ultimate_Disc.zip
+.\3Dprint\others\Flying_disc
+.\3Dprint\others\source
+.\3Dprint\others\CSU_Frisbee.stl
+.\3Dprint\others\CSU_Frisbee_Inset.stl
+.\3Dprint\others\flying_disc_flip.stl
+.\3Dprint\others\frisbee with...FCStd
+.\3Dprint\others\theD_Final.stl
+.\3Dprint\others\UVA_Mini_v2.STL
+.\3Dprint\text\Accuratist\.DS_Store
+.\3Dprint\text\Accuratist\Accuratist.otf
+.\3Dprint\text\Accuratist\Accuratist.pdf
+.\3Dprint\text\Accuratist\Accuratist.ttf
+.\3Dprint\text\warsaw\FONTLOG.txt
+.\3Dprint\text\warsaw\SIL Open Font License.txt
+.\3Dprint\text\warsaw\WarsawGothic.otf
+.\3Dprint\text\warsaw\WarsawGothic3D.otf
+.\3Dprint\text\warsaw\WarsawGothic3DObl.otf
+.\3Dprint\text\warsaw\WarsawGothicCond.otf
+.\3Dprint\text\warsaw\WarsawGothicCondObl.otf
+.\3Dprint\text\warsaw\WarsawGothicExt.otf
+.\3Dprint\text\warsaw\WarsawGothicExt3D.otf
+.\3Dprint\text\warsaw\WarsawGothicExt3DObl.otf
+.\3Dprint\text\warsaw\WarsawGothicExtObl.otf
+.\3Dprint\text\warsaw\WarsawGothicExtOuLn.otf
+.\3Dprint\text\warsaw\WarsawGothicExtOuLnObl.otf
+.\3Dprint\text\warsaw\WarsawGothicExtShd.otf
+.\3Dprint\text\warsaw\WarsawGothicExtShdObl.otf
+.\3Dprint\text\warsaw\WarsawGothicObl.otf
+.\3Dprint\text\warsaw\WarsawGothicOuLn.otf
+.\3Dprint\text\warsaw\WarsawGothicOuLnObl.otf
+.\3Dprint\text\warsaw\WarsawGothicShd.otf
+.\3Dprint\text\warsaw\WarsawGothicShdObl.otf
+.\3Dprint\text\warsaw\WarsawGothicSuExt.otf
+.\3Dprint\text\warsaw\WarsawGothicSuExt3D.otf
+.\3Dprint\text\warsaw\WarsawGothicSuExt3DObl.otf
+.\3Dprint\text\warsaw\WarsawGothicSuExtObl.otf
+.\3Dprint\text\warsaw\WarsawGothicSuExtShd.otf
+.\3Dprint\text\warsaw\WarsawGothicSuExtShdObl.otf
+.\3Dprint\text\warsaw\WarsawGothicWoodtype.otf
+.\3Dprint\text\warsaw\WarsawGothicWoodtypeObl.otf
+.\3Dprint\text\__MACOSX\Accuratist\._.DS_Store
+.\3Dprint\text\__MACOSX\Accuratist\._Accuratist.otf
+.\3Dprint\text\__MACOSX\Accuratist\._Accuratist.pdf
+.\3Dprint\text\__MACOSX\Accuratist\._Accuratist.ttf
+.\3Dprint\text\__MACOSX\Accuratist
+.\3Dprint\text\__MACOSX\._Accuratist
+.\3Dprint\text\Accuratist
+.\3Dprint\text\warsaw
+.\3Dprint\text\__MACOSX
+.\3Dprint\text\OFL.txt
+.\3Dprint\3D kryt na coupling
+.\3Dprint\others
+.\3Dprint\text
+.\3Dprint\flying_disc_flip.stl
+.\3Dprint\theD_Final.stl
+.\Irsko 9-2013\IMG_8483.JPG
+.\Irsko 9-2013\IMG_8484.JPG
+.\Irsko 9-2013\IMG_8485.JPG
+.\Irsko 9-2013\IMG_8486.JPG
+.\Irsko 9-2013\IMG_8487.JPG
+.\Irsko 9-2013\IMG_8489.JPG
+.\Irsko 9-2013\IMG_8490.JPG
+.\Irsko 9-2013\IMG_8492.JPG
+.\Irsko 9-2013\IMG_8493.JPG
+.\Irsko 9-2013\IMG_8495.JPG
+.\Irsko 9-2013\IMG_8497.JPG
+.\Irsko 9-2013\IMG_8499.JPG
+.\Irsko 9-2013\IMG_8500.JPG
+.\Irsko 9-2013\IMG_8501.JPG
+.\Irsko 9-2013\IMG_8503.JPG
+.\Irsko 9-2013\IMG_8505.JPG
+.\Irsko 9-2013\IMG_8506.JPG
+.\Irsko 9-2013\IMG_8507.JPG
+.\Irsko 9-2013\IMG_8510.JPG
+.\Irsko 9-2013\IMG_8512.JPG
+.\Irsko 9-2013\IMG_8513.JPG
+.\Irsko 9-2013\IMG_8514.JPG
+.\Irsko 9-2013\IMG_8515.JPG
+.\Irsko 9-2013\IMG_8516.JPG
+.\Irsko 9-2013\IMG_8519.JPG
+.\Irsko 9-2013\IMG_8520.JPG
+.\Irsko 9-2013\IMG_8521.JPG
+.\Irsko 9-2013\IMG_8522.JPG
+.\Irsko 9-2013\IMG_8523.JPG
+.\Irsko 9-2013\IMG_8524.JPG
+.\Irsko 9-2013\IMG_8525.JPG
+.\Irsko 9-2013\IMG_8526.JPG
+.\Irsko 9-2013\IMG_8527.JPG
+.\Irsko 9-2013\IMG_8528.JPG
+.\Irsko 9-2013\IMG_8529.JPG
+.\Irsko 9-2013\IMG_8530.JPG
+.\Irsko 9-2013\IMG_8534.JPG
+.\Irsko 9-2013\IMG_8535.JPG
+.\Irsko 9-2013\IMG_8536.JPG
+.\Irsko 9-2013\IMG_8537.JPG
+.\Irsko 9-2013\IMG_8538.JPG
+.\Irsko 9-2013\IMG_8539.JPG
+.\Irsko 9-2013\IMG_8540.JPG
+.\Irsko 9-2013\IMG_8541.JPG
+.\Irsko 9-2013\IMG_8542.JPG
+.\Irsko 9-2013\IMG_8543.JPG
+.\Irsko 9-2013\IMG_8545.JPG
+.\Irsko 9-2013\IMG_8546.JPG
+.\Irsko 9-2013\IMG_8547.JPG
+.\Irsko 9-2013\IMG_8548.JPG
+.\Irsko 9-2013\IMG_8549.JPG
+.\Irsko 9-2013\IMG_8550.JPG
+.\Irsko 9-2013\IMG_8551.JPG
+.\Irsko 9-2013\IMG_8552.JPG
+.\Irsko 9-2013\IMG_8553.JPG
+.\Irsko 9-2013\IMG_8554.JPG
+.\Irsko 9-2013\IMG_8555.JPG
+.\Irsko 9-2013\IMG_8559.JPG
+.\Irsko 9-2013\IMG_8561.JPG
+.\Irsko 9-2013\IMG_8562.JPG
+.\Irsko 9-2013\IMG_8563.JPG
+.\Irsko 9-2013\IMG_8564.JPG
+.\Irsko 9-2013\IMG_8566.JPG
+.\Irsko 9-2013\IMG_8567.JPG
+.\Irsko 9-2013\IMG_8569.JPG
+.\Irsko 9-2013\IMG_8571.JPG
+.\Irsko 9-2013\IMG_8573.JPG
+.\Irsko 9-2013\IMG_8574.JPG
+.\Irsko 9-2013\IMG_8577.JPG
+.\Irsko 9-2013\IMG_8578.JPG
+.\Irsko 9-2013\IMG_8579.JPG
+.\Irsko 9-2013\IMG_8582.JPG
+.\Irsko 9-2013\IMG_8584.JPG
+.\Irsko 9-2013\IMG_8586.JPG
+.\Irsko 9-2013\IMG_8588.JPG
+.\Irsko 9-2013\IMG_8591.JPG
+.\Irsko 9-2013\IMG_8593.JPG
+.\Irsko 9-2013\IMG_8596.JPG
+.\Irsko 9-2013\IMG_8597.JPG
+.\Irsko 9-2013\IMG_8599.JPG
+.\Irsko 9-2013\IMG_8600.JPG
+.\Irsko 9-2013\IMG_8601.JPG
+.\Irsko 9-2013\IMG_8602.JPG
+.\Irsko 9-2013\IMG_8603.JPG
+.\Irsko 9-2013\IMG_8604.JPG
+.\Irsko 9-2013\IMG_8608.JPG
+.\Irsko 9-2013\IMG_8609.JPG
+.\Irsko 9-2013\IMG_8610.JPG
+.\Irsko 9-2013\IMG_8612.JPG
+.\Irsko 9-2013\IMG_8613.JPG
+.\Irsko 9-2013\IMG_8614.JPG
+.\Irsko 9-2013\IMG_8615.JPG
+.\Irsko 9-2013\IMG_8616.JPG
+.\Irsko 9-2013\IMG_8617.JPG
+.\Irsko 9-2013\IMG_8625.JPG
+.\Irsko 9-2013\IMG_8627.JPG
+.\Irsko 9-2013\IMG_8628.JPG
+.\Irsko 9-2013\IMG_8629.JPG
+.\Irsko 9-2013\IMG_8634.JPG
+.\Irsko 9-2013\IMG_8635.JPG
+.\Irsko 9-2013\IMG_8636.JPG
+.\Irsko 9-2013\IMG_8637.JPG
+.\Irsko 9-2013\IMG_8639.JPG
+.\Irsko 9-2013\IMG_8640.JPG
+.\Irsko 9-2013\IMG_8641.JPG
+.\Irsko 9-2013\IMG_8642.JPG
+.\Irsko 9-2013\IMG_8643.JPG
+.\Irsko 9-2013\IMG_8645.JPG
+.\Irsko 9-2013\IMG_8649.JPG
+.\Irsko 9-2013\IMG_8650.JPG
+.\Irsko 9-2013\IMG_8654.JPG
+.\Irsko 9-2013\IMG_8656.JPG
+.\Irsko 9-2013\IMG_8657.JPG
+.\Irsko 9-2013\IMG_8658.JPG
+.\Irsko 9-2013\IMG_8659.JPG
+.\Irsko 9-2013\IMG_8660.JPG
+.\Irsko 9-2013\IMG_8661.JPG
+.\Irsko 9-2013\IMG_8662.JPG
+.\Irsko 9-2013\IMG_8663.JPG
+.\Irsko 9-2013\IMG_8664.JPG
+.\Irsko 9-2013\IMG_8666.JPG
+.\Irsko 9-2013\IMG_8667.JPG
+.\Irsko 9-2013\IMG_8668.JPG
+.\Irsko 9-2013\IMG_8669.JPG
+.\Irsko 9-2013\IMG_8670.JPG
+.\Irsko 9-2013\IMG_8671.JPG
+.\Irsko 9-2013\IMG_8672.JPG
+.\Irsko 9-2013\IMG_8673.JPG
+.\Irsko 9-2013\IMG_8674.JPG
+.\Irsko 9-2013\IMG_8676.JPG
+.\Irsko 9-2013\IMG_8679.JPG
+.\Irsko 9-2013\IMG_8680.JPG
+.\Irsko 9-2013\IMG_8681.JPG
+.\Irsko 9-2013\IMG_8683.JPG
+.\Irsko 9-2013\IMG_8684.JPG
+.\Irsko 9-2013\IMG_8686.JPG
+.\Irsko 9-2013\IMG_8687.JPG
+.\Irsko 9-2013\IMG_8688.JPG
+.\Irsko 9-2013\IMG_8689.JPG
+.\Irsko 9-2013\IMG_8691.JPG
+.\Irsko 9-2013\IMG_8692.JPG
+.\Irsko 9-2013\IMG_8693.JPG
+.\Irsko 9-2013\IMG_8696.JPG
+.\Irsko 9-2013\IMG_8698.JPG
+.\Irsko 9-2013\IMG_8699.JPG
+.\Irsko 9-2013\IMG_8700.JPG
+.\Irsko 9-2013\IMG_8701.JPG
+.\Irsko 9-2013\IMG_8702.JPG
+.\Irsko 9-2013\IMG_8703.JPG
+.\Irsko 9-2013\IMG_8704.JPG
+.\Irsko 9-2013\IMG_8705.JPG
+.\Irsko 9-2013\IMG_8706.JPG
+.\Irsko 9-2013\IMG_8708.JPG
+.\Irsko 9-2013\IMG_8710.JPG
+.\Irsko 9-2013\IMG_8713.JPG
+.\Irsko 9-2013\IMG_8715.JPG
+.\Irsko 9-2013\IMG_8718.JPG
+.\Irsko 9-2013\IMG_8724.JPG
+.\Irsko 9-2013\IMG_8725.JPG
+.\Irsko 9-2013\IMG_8728.JPG
+.\Irsko 9-2013\IMG_8732.JPG
+.\Irsko 9-2013\IMG_8733.JPG
+.\Irsko 9-2013\IMG_8736.JPG
+.\Irsko 9-2013\IMG_8738.JPG
+.\Irsko 9-2013\IMG_8739.JPG
+.\Irsko 9-2013\IMG_8740.JPG
+.\Irsko 9-2013\IMG_8747.JPG
+.\Irsko 9-2013\IMG_8748.JPG
+.\Irsko 9-2013\IMG_8749.JPG
+.\Irsko 9-2013\IMG_8750.JPG
+.\Irsko 9-2013\IMG_8751.JPG
+.\Irsko 9-2013\IMG_8752.JPG
+.\Irsko 9-2013\IMG_8753.JPG
+.\Irsko 9-2013\IMG_8754.JPG
+.\Irsko 9-2013\IMG_8755.JPG
+.\Irsko 9-2013\IMG_8756.JPG
+.\Irsko 9-2013\IMG_8758.JPG
+.\Irsko 9-2013\IMG_8759.JPG
+.\Irsko 9-2013\IMG_8760.JPG
+.\Irsko 9-2013\IMG_8761.JPG
+.\Irsko 9-2013\IMG_8762.JPG
+.\Irsko 9-2013\IMG_8763.JPG
+.\Irsko 9-2013\IMG_8764.JPG
+.\Irsko 9-2013\IMG_8765.JPG
+.\Irsko 9-2013\IMG_8766.JPG
+.\Irsko 9-2013\IMG_8768.JPG
+.\Irsko 9-2013\IMG_8769.JPG
+.\Irsko 9-2013\IMG_8772.JPG
+.\Irsko 9-2013\IMG_8775.JPG
+.\Irsko 9-2013\IMG_8776.JPG
+.\Irsko 9-2013\IMG_8780.JPG
+.\Irsko 9-2013\IMG_8781.JPG
+.\Irsko 9-2013\IMG_8782.JPG
+.\Irsko 9-2013\IMG_8783.JPG
+.\Irsko 9-2013\IMG_8784.JPG
+.\Irsko 9-2013\IMG_8785.JPG
+.\Irsko 9-2013\IMG_8786.JPG
+.\Irsko 9-2013\IMG_8787.JPG
+.\Irsko 9-2013\IMG_8788.JPG
+.\Irsko 9-2013\IMG_8794.JPG
+.\Irsko 9-2013\IMG_8798.JPG
+.\Irsko 9-2013\IMG_8800.JPG
+.\Irsko 9-2013\IMG_8802.JPG
+.\Irsko 9-2013\IMG_8803.JPG
+.\Irsko 9-2013\IMG_8804.JPG
+.\Irsko 9-2013\IMG_8805.JPG
+.\Irsko 9-2013\IMG_8806.JPG
+.\Irsko 9-2013\IMG_8807.JPG
+.\Irsko 9-2013\IMG_8808.JPG
+.\Irsko 9-2013\IMG_8810.JPG
+.\Irsko 9-2013\IMG_8811.JPG
+.\Irsko 9-2013\IMG_8812.JPG
+.\Irsko 9-2013\IMG_8813.JPG
+.\Irsko 9-2013\IMG_8814.JPG
+.\Irsko 9-2013\IMG_8815.JPG
+.\Irsko 9-2013\IMG_8816.JPG
+.\Irsko 9-2013\IMG_8817.JPG
+.\Irsko 9-2013\IMG_8818.JPG
+.\Irsko 9-2013\IMG_8819.JPG
+.\Irsko 9-2013\IMG_8820.JPG
+.\Irsko 9-2013\IMG_8821.JPG
+.\Irsko 9-2013\IMG_8822.JPG
+.\Irsko 9-2013\IMG_8823.JPG
+.\Irsko 9-2013\IMG_8824.JPG
+.\Irsko 9-2013\IMG_8825.JPG
+.\Irsko 9-2013\IMG_8826.JPG
+.\Irsko 9-2013\IMG_8832.JPG
+.\Irsko 9-2013\IMG_8833.JPG
+.\Irsko 9-2013\IMG_8834.JPG
+.\Irsko 9-2013\IMG_8835.JPG
+.\Irsko 9-2013\IMG_8837.JPG
+.\Irsko 9-2013\IMG_8839.JPG
+.\Irsko 9-2013\IMG_8840.JPG
+.\Irsko 9-2013\IMG_8842.JPG
+.\Irsko 9-2013\IMG_8843.JPG
+.\Irsko 9-2013\IMG_8844.JPG
+.\Irsko 9-2013\IMG_8847.JPG
+.\Irsko 9-2013\IMG_8848.JPG
+.\Irsko 9-2013\IMG_8850.JPG
+.\Irsko 9-2013\IMG_8851.JPG
+.\Irsko 9-2013\IMG_8852.JPG
+.\Irsko 9-2013\IMG_8853.JPG
+.\Irsko 9-2013\IMG_8854.JPG
+.\Irsko 9-2013\IMG_8855.JPG
+.\Irsko 9-2013\IMG_8856.JPG
+.\Irsko 9-2013\IMG_8857.JPG
+.\Irsko 9-2013\IMG_8858.JPG
+.\Irsko 9-2013\IMG_8861.JPG
+.\Irsko 9-2013\IMG_8863.JPG
+.\Irsko 9-2013\IMG_8865.JPG
+.\Irsko 9-2013\IMG_8867.JPG
+.\Irsko 9-2013\IMG_8870.JPG
+.\Irsko 9-2013\IMG_8871.JPG
+.\Irsko 9-2013\IMG_8877.JPG
+.\Irsko 9-2013\IMG_8881.JPG
+.\Irsko 9-2013\IMG_8883.JPG
+.\Irsko 9-2013\IMG_8886.JPG
+.\Irsko 9-2013\IMG_8889.JPG
+.\Irsko 9-2013\IMG_8891.JPG
+.\Irsko 9-2013\IMG_8893.JPG
+.\Irsko 9-2013\IMG_8894.JPG
+.\Irsko 9-2013\IMG_8895.JPG
+.\Irsko 9-2013\IMG_8896.JPG
+.\Irsko 9-2013\IMG_8897.JPG
+.\Irsko 9-2013\IMG_8900.JPG
+.\Irsko 9-2013\IMG_8901.JPG
+.\Irsko 9-2013\IMG_8902.JPG
+.\Irsko 9-2013\IMG_8903.JPG
+.\Irsko 9-2013\IMG_8905.JPG
+.\Irsko 9-2013\IMG_8906.JPG
+.\Irsko 9-2013\IMG_8907.JPG
+.\Irsko 9-2013\IMG_8909.JPG
+.\Irsko 9-2013\IMG_8910.JPG
+.\Irsko 9-2013\IMG_8911.JPG
+.\Irsko 9-2013\IMG_8912.JPG
+.\Irsko 9-2013\IMG_8913.JPG
+.\Irsko 9-2013\IMG_8915.JPG
+.\Irsko 9-2013\IMG_8916.JPG
+.\Irsko 9-2013\IMG_8917.JPG
+.\Irsko 9-2013\IMG_8918.JPG
+.\Irsko 9-2013\IMG_8919.JPG
+.\Irsko 9-2013\IMG_8920.JPG
+.\Irsko 9-2013\IMG_8921.JPG
+.\Irsko 9-2013\IMG_8922.JPG
+.\Irsko 9-2013\IMG_8923.JPG
+.\Irsko 9-2013\IMG_8924.JPG
+.\Irsko 9-2013\IMG_8925.JPG
+.\Irsko 9-2013\IMG_8927.JPG
+.\Irsko 9-2013\IMG_8928.JPG
+.\Irsko 9-2013\IMG_8936.JPG
+.\Irsko 9-2013\IMG_8937.JPG
+.\Irsko 9-2013\IMG_8944.JPG
+.\Irsko 9-2013\IMG_8947.JPG
+.\Irsko 9-2013\IMG_8948.JPG
+.\Irsko 9-2013\IMG_8949.JPG
+.\Irsko 9-2013\IMG_8959.JPG
+.\Irsko 9-2013\IMG_8961.JPG
+.\Irsko 9-2013\IMG_8962.JPG
+.\Irsko 9-2013\IMG_8964.JPG
+.\Irsko 9-2013\IMG_8965.JPG
+.\Irsko 9-2013\IMG_8966.JPG
+.\Irsko 9-2013\IMG_8967.JPG
+.\Irsko 9-2013\IMG_8968.JPG
+.\Irsko 9-2013\IMG_8969.JPG
+.\Irsko 9-2013\IMG_8970.JPG
+.\Irsko 9-2013\IMG_8971.JPG
+.\Irsko 9-2013\IMG_8972.JPG
+.\Irsko 9-2013\IMG_8973.JPG
+.\Irsko 9-2013\IMG_8974.JPG
+.\Irsko 9-2013\IMG_8975.JPG
+.\Irsko 9-2013\IMG_8976.JPG
+.\Irsko 9-2013\IMG_8979.JPG
+.\Irsko 9-2013\IMG_8980.JPG
+.\Irsko 9-2013\IMG_8985.JPG
+.\Irsko 9-2013\IMG_8986.JPG
+.\Irsko 9-2013\IMG_8987.JPG
+.\Irsko 9-2013\IMG_8988.JPG
+.\Irsko 9-2013\IMG_8989.JPG
+.\Irsko 9-2013\IMG_8990.JPG
+.\Irsko 9-2013\IMG_8991.JPG
+.\Irsko 9-2013\IMG_8992.JPG
+.\Irsko 9-2013\IMG_8993.JPG
+.\Irsko 9-2013\IMG_8995.JPG
+.\Irsko 9-2013\IMG_8998.JPG
+.\Irsko 9-2013\IMG_8999.JPG
+.\Irsko 9-2013\IMG_9000.JPG
+.\Irsko 9-2013\IMG_9003.JPG
+.\Irsko 9-2013\IMG_9004.JPG
+.\Irsko 9-2013\IMG_9005.JPG
+.\Irsko 9-2013\IMG_9007.JPG
+.\Irsko 9-2013\IMG_9009.JPG
+.\Irsko 9-2013\IMG_9010.JPG
+.\Irsko 9-2013\IMG_9012.JPG
+.\Irsko 9-2013\IMG_9014.JPG
+.\Irsko 9-2013\IMG_9016.JPG
+.\Irsko 9-2013\IMG_9019.JPG
+.\Irsko 9-2013\IMG_9020.JPG
+.\Irsko 9-2013\IMG_9025.JPG
+.\Irsko 9-2013\IMG_9026.JPG
+.\Irsko 9-2013\IMG_9027.JPG
+.\Irsko 9-2013\IMG_9028.JPG
+.\Irsko 9-2013\IMG_9030.JPG
+.\Irsko 9-2013\IMG_9032.JPG
+.\Irsko 9-2013\IMG_9034.JPG
+.\Irsko 9-2013\IMG_9035.JPG
+.\Irsko 9-2013\IMG_9036.JPG
+.\Irsko 9-2013\IMG_9037.JPG
+.\Irsko 9-2013\IMG_9039.JPG
+.\Irsko 9-2013\IMG_9041.JPG
+.\Irsko 9-2013\IMG_9043.JPG
+.\Irsko 9-2013\IMG_9044.JPG
+.\Irsko 9-2013\IMG_9045.JPG
+.\Irsko 9-2013\IMG_9046.JPG
+.\Irsko 9-2013\IMG_9048.JPG
+.\Irsko 9-2013\IMG_9050.JPG
+.\Irsko 9-2013\IMG_9051.JPG
+.\Irsko 9-2013\IMG_9052.JPG
+.\Irsko 9-2013\IMG_9053.JPG
+.\Irsko 9-2013\IMG_9054.JPG
+.\Irsko 9-2013\IMG_9055.JPG
+.\Irsko 9-2013\IMG_9057.JPG
+.\Irsko 9-2013\IMG_9058.JPG
+.\Irsko 9-2013\IMG_9059.JPG
+.\Irsko 9-2013\IMG_9060.JPG
+.\Irsko 9-2013\IMG_9061.JPG
+.\Irsko 9-2013\IMG_9062.JPG
+.\Irsko 9-2013\IMG_9063.JPG
+.\Irsko 9-2013\IMG_9064.JPG
+.\Irsko 9-2013\IMG_9065.JPG
+.\Irsko 9-2013\IMG_9066.JPG
+.\Irsko 9-2013\IMG_9067.JPG
+.\Irsko 9-2013\IMG_9068.JPG
+.\STB\Paroubek\det5.jpg
+.\STB\Paroubek\det6.jpg
+.\STB\Paroubek\det7.jpg
+.\STB\Paroubek\det8.jpg
+.\STB\Paroubek\roko1.jpg
+.\STB\Paroubek\roko2.jpg
+.\STB\Paroubek\roko3.jpg
+.\STB\Paroubek\roko4.jpg
+.\STB\Paroubek\roko5.jpg
+.\STB\Paroubek\roko6.jpg
+.\STB\Paroubek\roko7.jpg
+.\STB\Paroubek\roko8.jpg
+.\STB\Paroubek
+.\zaloha web\20160211\add.php
+.\zaloha web\20160211\databaze.php
+.\zaloha web\20160211\delete.php
+.\zaloha web\20170117_tov37ar peaceegg net\css\style.css
+.\zaloha web\20170117_tov37ar peaceegg net\menu\add_menu.php
+.\zaloha web\20170117_tov37ar peaceegg net\menu\index.php
+.\zaloha web\20170117_tov37ar peaceegg net\menu\style.css
+.\zaloha web\20170117_tov37ar peaceegg net\new\add.php
+.\zaloha web\20170117_tov37ar peaceegg net\new\addIT.php
+.\zaloha web\20170117_tov37ar peaceegg net\new\delete.php
+.\zaloha web\20170117_tov37ar peaceegg net\new\deleteIT.php
+.\zaloha web\20170117_tov37ar peaceegg net\new\dtb.php
+.\zaloha web\20170117_tov37ar peaceegg net\new\index.php
+.\zaloha web\20170117_tov37ar peaceegg net\new\menu.php
+.\zaloha web\20170117_tov37ar peaceegg net\new\style.css
+.\zaloha web\20170117_tov37ar peaceegg net\zaloha\20160211\add.php
+.\zaloha web\20170117_tov37ar peaceegg net\zaloha\20160211\databaze.php
+.\zaloha web\20170117_tov37ar peaceegg net\zaloha\20160211\delete.php
+.\zaloha web\20170117_tov37ar peaceegg net\zaloha\20160211
+.\zaloha web\20170117_tov37ar peaceegg net\css
+.\zaloha web\20170117_tov37ar peaceegg net\menu
+.\zaloha web\20170117_tov37ar peaceegg net\new
+.\zaloha web\20170117_tov37ar peaceegg net\zaloha
+.\zaloha web\20170117_tov37ar peaceegg net\add.php
+.\zaloha web\20170117_tov37ar peaceegg net\databaze.php
+.\zaloha web\20170117_tov37ar peaceegg net\databazeOUT.php
+.\zaloha web\20170117_tov37ar peaceegg net\delete.php
+.\zaloha web\20170117_tov37ar peaceegg net\hlavicka.php
+.\zaloha web\20170117_tov37ar peaceegg net\menu.php
+.\zaloha web\20170117_tov37ar peaceegg net\recepty.html
+.\zaloha web\20160211
+.\zaloha web\20170117_tov37ar peaceegg net
+.\Zarovky spektrum\test\colorMatchFcn.m
+.\Zarovky spektrum\test\createSpectrum.m
+.\Zarovky spektrum\test\illuminant.m
+.\Zarovky spektrum\test\license.txt
+.\Zarovky spektrum\test\spectrumLabel.m
+.\Zarovky spektrum\test\spectrumRGB.m
+.\Zarovky spektrum\test
+.\Zarovky spektrum\kj_3svetla_spektrum.jpg
+.\Zarovky spektrum\kj_3svetla_spektrumRBG.jpg
+.\Zarovky spektrum\kj_Zarovky_spektrum.jpg
+.\Zarovky spektrum\LED.smir
+.\Zarovky spektrum\LEDPasek.smir
+.\Zarovky spektrum\LEDPasek1.smir
+.\Zarovky spektrum\LEDPasek2.smir
+.\Zarovky spektrum\LED_bod.smir
+.\Zarovky spektrum\LED_bod2.smir
+.\Zarovky spektrum\LED_bodikova.smir
+.\Zarovky spektrum\pl.m
+.\Zarovky spektrum\Zarovka.smir
+.\Zarovky spektrum\Zarovka_odporovyDratek.smir
+.\_python\learning_paths\mian.py
+.\_python\learning_paths
+.\_python\forCyklus.py
+.\3Dprint
+.\Irsko 9-2013
+.\STB
+.\zaloha web
+.\Zarovky spektrum
+.\_python
+.\167852813-Andrej-Babiš-kryci-jmeno-Bureš(1).pdf
+.\167852813-Andrej-Babiš-kryci-jmeno-Bureš.pdf
+.\2013_prague_USE_it.pdf
+.\Absolventi 2013.htm
+.\Duchan.jpg
+.\IMG_9192 (Kopírovat).JPG
+.\Irsko 9-2013.zip
+.\mian.py
+.\nikdy-se-nevzdávej.jpg
+.\Pavel-Roubal---Základy-Fotografování-a-kompozice.pdf
+.\Strediskovka15-9-2013.doc
+.\SystemTree.txt
+.\SystemTree2.txt
+.\ZakladyFotografovani.pdf
