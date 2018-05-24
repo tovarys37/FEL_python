@@ -38,9 +38,6 @@ def thermometer(tempT):
 
 
 
-page = requests.get('http://teplomer.mk.cvut.cz/')
-tree = html.fromstring(page.content)
-
 
 
 
@@ -49,6 +46,8 @@ ii=0
 while (ii < 500):
     ii = ii + 1
     #print("Ulozeni c. " + str(ii))
+    page = requests.get('http://teplomer.mk.cvut.cz/')
+    tree = html.fromstring(page.content)
     data = tree.xpath('//div[@class="teplota1 "]/text()')
     temp = data[0]
     temp = temp.replace("\n\t\t", "")
